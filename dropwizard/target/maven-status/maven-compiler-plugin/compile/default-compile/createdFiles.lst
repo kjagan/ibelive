@@ -1,0 +1,10 @@
+com\ibelive\dropwizard\representation\ActiveAdminComment.class
+com\ibelive\dropwizard\representation\UserDetails.class
+com\ibelive\dropwizard\IbeliveConfiguration.class
+com\ibelive\dropwizard\IbeliveApplication.class
+com\ibelive\dropwizard\resources\ActiveAdminCommentResource.class
+com\ibelive\dropwizard\resources\UserDetailsResource.class
+com\ibelive\dropwizard\dao\UserDetailsDao.class
+com\ibelive\dropwizard\dao\ActiveAdminCommentDao.class
+com\ibelive\dropwizard\dao\mappers\ActiveAdminCommentMapper.class
+com\ibelive\dropwizard\dao\mappers\UserDetailMapper.class

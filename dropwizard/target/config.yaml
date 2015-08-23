@@ -1,0 +1,12 @@
+server:
+  type: simple
+  applicationContextPath: /ibelive
+  adminContextPath: /admin
+  connector:
+   type: http
+   port: 9090
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: ibeliveuser
+  password: ibelivepassword
+  url: jdbc:mysql://localhost/ibelive
